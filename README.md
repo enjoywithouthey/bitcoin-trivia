@@ -20,7 +20,7 @@ It's a way to pay hommage to Bitcoin's block time. lol. Plus, it's another way t
 A lot. :)
 
 ## Known Issues and Bug Reporting
-To report bugs, please send me a message on Github or Twitter @enjoywithouthey or send an email to admin@bitcointrivia.app
+To report bugs, please send me a message on Github or Twitter [@enjoywithouthey](https://twitter.com/enjoywithouthey) or send an email to admin@bitcointrivia.app
 
 *Known Issue #1 - Potential duplication of questions*
 The MongoDB $sample data aggregator selects three random questions from the database. It is possible for a question to repeat. Each question has a probability of under 1% for being selected. The probability that two questions match is less than 0.01%.
